@@ -5,12 +5,13 @@
 
 # Publications
 
-2023
-  * [IEEE TNSRE] "Brain effective connectivity analysis facilitates the treatment outcome expectation of sound therapy in patients with tinnitus"  
+__2023__
+  * [__IEEE TNSRE__] "Brain effective connectivity analysis facilitates the treatment outcome expectation of sound therapy in patients with tinnitus"  
      Han Lv#, Jinduo Liu#(Equal Contributions), Qian Chen, Zuozhen Zhang, Zhaodi Wang, Shusheng Gong, Junzhong Ji and Zhenchang Wang  
      IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2023  
-2022
-  * [IEEE TNNLS] Inferring Effective Connectivity Networks from fMRI Time Series with a Temporal Entropy-score  
+  
+__2022__
+  * [__IEEE TNNLS__] Inferring Effective Connectivity Networks from fMRI Time Series with a Temporal Entropy-score  
      Jinduo Liu, Junzhong Ji, Guangxu Xun, Aidong Zhang  
      IEEE Transactions on Neural Networks and Learning Systems, 2022  
      
