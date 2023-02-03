@@ -27,5 +27,6 @@
     Frontires in Human Neuroscience
     Frontires in Computational Neuroscience
     
-      
+  
+# Contact 
     I am looking for highly motivated Master students with strong mathematical or programming background. Please send your CV to my email. [招生主页](https://yanzhao.bjut.edu.cn/info/1182/4924.htm). E-mail: Jinduo AT bjut DOT edu DOT cn 
