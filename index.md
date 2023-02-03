@@ -1,6 +1,6 @@
 # Biography
 
-  I am currently a lecture (and a M.S. Supervisor) in the Faculty of Information Technology, Beijing University of Technology (BJUT), China. I obtained my Ph.D. in Computer Science from the Beijing University of Technology in 2022, , where I was supervised by Prof. Junzhong Ji. My research interests are in the general areas of machine learning, data mining and brain science, with a current focus on developing novel techniques to learn the brain effective connectivity networks from neuroimaging data.
+  I am currently a lecture (and a M.S. Supervisor) in the Faculty of Information Technology, Beijing University of Technology (BJUT), China. I obtained my Ph.D. in Computer Science from the Beijing University of Technology in 2022, , where I was supervised by Prof. Junzhong Ji. My research interests are in the general areas of machine learning, data mining and brain science, with a current focus on developing novel techniques to learn the brain effective connectivity networks from neuroimaging data.\n
   I am looking for highly motivated Master students with strong mathematical or programming background. Please send your CV to my email. [招生主页](https://yanzhao.bjut.edu.cn/info/1182/4924.htm)
 
 
