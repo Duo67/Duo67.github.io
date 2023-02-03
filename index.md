@@ -16,6 +16,17 @@
   * [__IEEE TKDE__] Liuyi Yao, Yaliang Li, Sheng Li, __Jinduo Liu__, Mengdi Huai, Aidong Zhang and Jing Gao. "Concept-Level Model Interpretation From the Causal Aspect". _IEEE Transactions on Knowledge and Data Engineering_, 2022  
   * [__IEEE TNNLS__] Aixiao Zou, Junzhong Ji, Minglong Lei, __Jinduo Liu__, Yongduan Song. "Exploring brain effective connectivity networks through spatiotemporal graph convolutional models". _IEEE Transactions on Neural Networks and Learning Systems_, 2022  
   * [__BIBM 2022__] Yilin Lu, __Jinduo Liu*__, Junzhong Ji, Han Lv, Mengdi Huai. "Brain Effective Connectivity Learning with Deep Reinforcement Learning". _2022 IEEE International Conference on Bioinformatics and Biomedicine_, 2022
+
+## 2021
+  * [__IEEE TMI__] Junzhong Ji*, __Jinduo Liu*__, Lu Han and Feipeng Wan. "Estimating effective connectivity by recurrent generative adversarial networks". _IEEE Transactions on Medical Imaging_, 40(12), 3326-3336, 2021  
+  * [__IEEE TNNLS__] Junzhong Ji, Aixiao Zou, __Jinduo Liu__, Cuicui Yang, Xiaodan Zhang and Yongduan Song. "A survey on brain effective connectivity network learning". _IEEE Transactions on Neural Networks and Learning Systems_, 2021  
+  * [__AAS__] Junzhong Ji, __Jinduo Liu__, Aixiao Zou and Cuicui Yang. "An ant colony optimization algorithm merged with multiple source information for learning brain effective connectivity networks". _Acta Automatica Sinica (自动化学报)_, 47(4): 864-881, 2021  
+  * [__AAS__] Junzhong Ji, Aixiao Zou and __Jinduo Liu__. "An overview of identification methods on human brain effective connectivity networks based on functional magnetic resonance imaging". _Acta Automatica Sinica (自动化学报)_, 47(2): 278−296, 2021  
+  
+## 2020
+  * [__AAAI 2020__] __Jinduo Liu__, Junzhong Ji, Guangxu Xun, Liuyi Yao, Mengdi Huai and Aidong Zhang. "EC-GAN: inferring brain effective connectivity via generative adversarial networks". _Proceedings of the AAAI Conference on Artificial Intelligence_, 34(4), 4852-4859, 2020   
+  * [__IEEE JBHI__] __Jinduo Liu__, Junzhong Ji, Xiuqin Jia and Aidong Zhang. "Learning brain effective connectivity network structure using ant colony optimization combining with voxel activation information". _IEEE journal of biomedical and health informatics_, 24(7), 2028-2040, 2020  
+
      
 # Services
 ## Program Committee Member
@@ -33,5 +44,5 @@
     
   
 # Contact  
-Our Group is looking for highly motivated Master students with strong mathematical or programming background [[中文招生主页链接]](https://yanzhao.bjut.edu.cn/info/1182/4924.htm).  
+Our group is looking for highly motivated Master students with strong mathematical or programming background [[中文招生主页链接]](https://yanzhao.bjut.edu.cn/info/1182/4924.htm).  
 E-mail: Jinduo AT bjut DOT edu DOT cn 
