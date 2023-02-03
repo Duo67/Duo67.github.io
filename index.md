@@ -10,16 +10,12 @@ __2023__
   * [__IEEE TNSRE__] Han Lv#, __Jinduo Liu#__, Qian Chen, Zuozhen Zhang, Zhaodi Wang, Shusheng Gong, Junzhong Ji and Zhenchang Wang. "Brain effective connectivity analysis facilitates the treatment outcome expectation of sound therapy in patients with tinnitus". _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 2023  
   
 __2022__
-  * [__IEEE TNNLS__] __Jinduo Liu__, Junzhong Ji, Guangxu Xun, Aidong Zhang. "Inferring Effective Connectivity Networks from fMRI Time Series with a Temporal Entropy-score". _IEEE Transactions on Neural Networks and Learning Systems_, 33(10), 5993-6006, 2022  
-  * [__IEEE TNNLS__] Inferring Effective Connectivity Networks from fMRI Time Series with a Temporal Entropy-score  
-     Jinduo Liu, Junzhong Ji, Guangxu Xun, Aidong Zhang  
+  * [__IEEE TNNLS__] __Jinduo Liu__, Junzhong Ji, Guangxu Xun and Aidong Zhang. "Inferring Effective Connectivity Networks from fMRI Time Series with a Temporal Entropy-score". _IEEE Transactions on Neural Networks and Learning Systems_, 33(10), 5993-6006, 2022  
+  * [__AAAI 2022__] Mengdi Huai, __Jinduo Liu__, Chenglin Miao, Liuyi Yao and Aidong Zhang. "Towards automating model explanations with certified robustness guarantees". _Proceedings of the AAAI Conference on Artificial Intelligence_, 36(6), 6935-6943, 2022
      IEEE Transactions on Neural Networks and Learning Systems, 2022  
-  * [__IEEE TNNLS__] Inferring Effective Connectivity Networks from fMRI Time Series with a Temporal Entropy-score  
-     Jinduo Liu, Junzhong Ji, Guangxu Xun, Aidong Zhang  
-     IEEE Transactions on Neural Networks and Learning Systems, 2022  
-  * [__IEEE TNNLS__] Inferring Effective Connectivity Networks from fMRI Time Series with a Temporal Entropy-score  
-     Jinduo Liu, Junzhong Ji, Guangxu Xun, Aidong Zhang  
-     IEEE Transactions on Neural Networks and Learning Systems, 2022  
+  * [__IEEE TKDE__] Liuyi Yao, Yaliang Li, Sheng Li, __Jinduo Liu__, Mengdi Huai, Aidong Zhang and Jing Gao. "Concept-Level Model Interpretation From the Causal Aspect". _IEEE Transactions on Knowledge and Data Engineering_, 2022  
+  * [__IEEE TNNLS__] Aixiao Zou, Junzhong Ji, Minglong Lei, __Jinduo Liu__, Yongduan Song. "Exploring brain effective connectivity networks through spatiotemporal graph convolutional models". _IEEE Transactions on Neural Networks and Learning Systems_, 2022  
+  * [__BIBM 2022__] Yilin Lu, __Jinduo Liu*__, Junzhong Ji, Han Lv, Mengdi Huai. "Brain Effective Connectivity Learning with Deep Reinforcement Learning". _2022 IEEE International Conference on Bioinformatics and Biomedicine_, 2022
      
 # Services
 ## Program Committee Member
