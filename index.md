@@ -1,4 +1,4 @@
-Jinduo Liu （刘金铎）
+
 # Biography
 
   I am currently a lecture (and a M.S. Supervisor) in the Faculty of Information Technology, Beijing University of Technology (BJUT), China. I obtained my Ph.D. in Computer Science from the Beijing University of Technology in 2022, , where I was supervised by Prof. Junzhong Ji. My research interests are in the general areas of machine learning, data mining and brain science, with a current focus on developing novel techniques to learn the brain effective connectivity networks from neuroimaging data.  
