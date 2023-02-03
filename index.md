@@ -29,6 +29,5 @@
     
   
 # Contact  
-I am looking for highly motivated Master students with strong mathematical or programming background. Please send your CV to my email.  
-[中文招生主页链接](https://yanzhao.bjut.edu.cn/info/1182/4924.htm).  
+I am looking for highly motivated Master students with strong mathematical or programming background [中文招生主页链接](https://yanzhao.bjut.edu.cn/info/1182/4924.htm).  
 E-mail: Jinduo AT bjut DOT edu DOT cn 
