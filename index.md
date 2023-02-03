@@ -1,7 +1,6 @@
 # Biography
 
   I am currently a lecture (and a M.S. Supervisor) in the Faculty of Information Technology, Beijing University of Technology (BJUT), China. I obtained my Ph.D. in Computer Science from the Beijing University of Technology in 2022, , where I was supervised by Prof. Junzhong Ji. My research interests are in the general areas of machine learning, data mining and brain science, with a current focus on developing novel techniques to learn the brain effective connectivity networks from neuroimaging data.  
- 
 ![](qrcode_for_gh_0d3e241c6f10_258.jpg)
 
 # Publications
@@ -17,8 +16,10 @@
      
 # Services
 ## Program Committee Member
- * 2023: AAAI, IJCAI
- * 2022: CAC, ICME
+ * The 32nd International Joint Conference on Artificial Intelligence (IJCAI-23)
+ * Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23)
+ * China Automation Congress (CAC2021;CAC2022)
+ * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-20)
     
 ## Journal Reviewer
  * IEEE Transactions on Neural Networks and Learning Systems
@@ -29,5 +30,5 @@
     
   
 # Contact  
-I am looking for highly motivated Master students with strong mathematical or programming background [[中文招生主页链接]](https://yanzhao.bjut.edu.cn/info/1182/4924.htm).  
+Our Group is looking for highly motivated Master students with strong mathematical or programming background [[中文招生主页链接]](https://yanzhao.bjut.edu.cn/info/1182/4924.htm).  
 E-mail: Jinduo AT bjut DOT edu DOT cn 
