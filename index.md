@@ -30,6 +30,7 @@
      
 # Services
 ## Program Committee Member
+ * Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2023 Research Track)
  * The 32nd International Joint Conference on Artificial Intelligence (IJCAI-23)
  * Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23)
  * China Automation Congress (CAC2021;CAC2022)
