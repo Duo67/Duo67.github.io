@@ -7,7 +7,7 @@
 # Publications
 
 ## 2023
-  * [__IEEE TNSRE__] Han Lv#, __Jinduo Liu#__, Qian Chen, Zuozhen Zhang, Zhaodi Wang, Shusheng Gong, Junzhong Ji and Zhenchang Wang. "Brain effective connectivity analysis facilitates the treatment outcome expectation of sound therapy in patients with tinnitus". _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 2023  
+  * [__IEEE TNSRE__] Han Lv#, __Jinduo Liu#__, Qian Chen, Zuozhen Zhang, Zhaodi Wang, Shusheng Gong, Junzhong Ji and Zhenchang Wang. "Brain effective connectivity analysis facilitates the treatment outcome expectation of sound therapy in patients with tinnitus". _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 31, 1158-1166, 2023  
   
 ## 2022
   * [__IEEE TNNLS__] __Jinduo Liu__, Junzhong Ji, Guangxu Xun and Aidong Zhang. "Inferring Effective Connectivity Networks from fMRI Time Series with a Temporal Entropy-score". _IEEE Transactions on Neural Networks and Learning Systems_, 33(10), 5993-6006, 2022  
