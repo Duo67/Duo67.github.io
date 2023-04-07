@@ -8,6 +8,7 @@ I am currently a lecture (and a M.S. Supervisor) in the Faculty of Information T
 
 ## 2023
   * [__IEEE TNSRE__] Han Lv#, __Jinduo Liu#__, Qian Chen, Zuozhen Zhang, Zhaodi Wang, Shusheng Gong, Junzhong Ji and Zhenchang Wang. "Brain effective connectivity analysis facilitates the treatment outcome expectation of sound therapy in patients with tinnitus". _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 31, 1158-1166, 2023  
+  * [__IEEE TNNLS__] Junzhong Ji, Aixiao Zou, __Jinduo Liu__, Cuicui Yang, Xiaodan Zhang and Yongduan Song. "A survey on brain effective connectivity network learning". _IEEE Transactions on Neural Networks and Learning Systems_, 34(4), 1879-1899, 2023 
   
 ## 2022
   * [__IEEE TNNLS__] __Jinduo Liu__, Junzhong Ji, Guangxu Xun and Aidong Zhang. "Inferring Effective Connectivity Networks from fMRI Time Series with a Temporal Entropy-score". _IEEE Transactions on Neural Networks and Learning Systems_, 33(10), 5993-6006, 2022  
@@ -19,7 +20,6 @@ I am currently a lecture (and a M.S. Supervisor) in the Faculty of Information T
 
 ## 2021
   * [__IEEE TMI__] Junzhong Ji*, __Jinduo Liu*__, Lu Han and Feipeng Wan. "Estimating effective connectivity by recurrent generative adversarial networks". _IEEE Transactions on Medical Imaging_, 40(12), 3326-3336, 2021  
-  * [__IEEE TNNLS__] Junzhong Ji, Aixiao Zou, __Jinduo Liu__, Cuicui Yang, Xiaodan Zhang and Yongduan Song. "A survey on brain effective connectivity network learning". _IEEE Transactions on Neural Networks and Learning Systems_, 2021  
   * [__AAS__] Junzhong Ji, __Jinduo Liu__, Aixiao Zou and Cuicui Yang. "An ant colony optimization algorithm merged with multiple source information for learning brain effective connectivity networks". _Acta Automatica Sinica (自动化学报)_, 47(4): 864-881, 2021  
   * [__AAS__] Junzhong Ji, Aixiao Zou and __Jinduo Liu__. "An overview of identification methods on human brain effective connectivity networks based on functional magnetic resonance imaging". _Acta Automatica Sinica (自动化学报)_, 47(2): 278−296, 2021  
   
