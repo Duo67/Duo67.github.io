@@ -39,8 +39,6 @@ I am currently a lecture (and a M.S. Supervisor) in the Faculty of Information T
  * IEEE Transactions on Neural Networks and Learning Systems
  * IEEE Journal of Biomedical and Health Informatics
  * ACM Transactions on Knowledge Discovery from Data
- * Frontires in Human Neuroscience
- * Frontires in Computational Neuroscience
     
   
 # Contact  
