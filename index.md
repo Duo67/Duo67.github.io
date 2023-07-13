@@ -30,10 +30,11 @@ I am currently a lecture (and a M.S. Supervisor) in the Faculty of Information T
      
 # Services
 ## Program Committee Member
+ * The 38th AAAI Conference on Artificial Intelligence (AAAI-24)
  * The 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2023 Research Track)
  * The 32nd International Joint Conference on Artificial Intelligence (IJCAI-23)
  * The 2023 Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023) 
- * The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23)
+ * The 37th AAAI Conference on Artificial Intelligence (AAAI-23)
  * China Automation Congress (CAC2021;CAC2022)
     
 ## Journal Reviewer
