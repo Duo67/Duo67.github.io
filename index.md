@@ -38,10 +38,11 @@ I am currently a lecture (and a M.S. Supervisor) in the Faculty of Information T
  * China Automation Congress (CAC2021;CAC2022)
     
 ## Journal Reviewer
+ * IEEE Transactions on Medical Imaging
  * IEEE Transactions on Neural Networks and Learning Systems
+ * CAAI Transactions on Intelligence Technology
  * IEEE Journal of Biomedical and Health Informatics
  * ACM Transactions on Knowledge Discovery from Data
-    
   
 # Contact  
 Our group is looking for highly motivated Master students with strong mathematical or programming background [[中文招生主页链接]](https://yanzhao.bjut.edu.cn/info/1182/4924.htm).  
