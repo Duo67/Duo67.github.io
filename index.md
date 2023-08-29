@@ -35,13 +35,14 @@ I am currently a lecture (and a M.S. Supervisor) in the Faculty of Information T
  * The 32nd International Joint Conference on Artificial Intelligence (IJCAI-23)
  * The 2023 Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023) 
  * The 37th AAAI Conference on Artificial Intelligence (AAAI-23)
- * China Automation Congress (CAC2021;CAC2022)
+ * China Automation Congress (CAC2021;CAC2022;CAC2023)
     
 ## Journal Reviewer
  * IEEE Transactions on Medical Imaging
  * IEEE Transactions on Neural Networks and Learning Systems
- * CAAI Transactions on Intelligence Technology
+ * IEEE Transactions on Automation Science and Engineering
  * IEEE Journal of Biomedical and Health Informatics
+ * CAAI Transactions on Intelligence Technology
  * ACM Transactions on Knowledge Discovery from Data
   
 # Contact  
