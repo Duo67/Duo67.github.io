@@ -7,6 +7,8 @@ I am currently a lecture (and a M.S. Supervisor) in the Faculty of Information T
 # Publications
 
 ## 2023
+  * [__IEEE TIM__] Junzhong Ji, Lu Han, Feipeng Wang, __Jinduo Liu*__. “Dynamic Effective Connectivity Learning based on non-Parametric State Estimation and GAN”, _IEEE Transactions on Instrumentation and Measurement_, 2023.
+  * [__CAAI TIT__] __Jinduo Liu__, Jihao Zhai, Junzhong Ji. "Inferring Causal Protein Signaling Networks from Single-cell Data based on Parallel Discrete Artificial Bee Colony Algorithm". _CAAI Transactions on Intelligence Technology_, 2023  
   * [__IEEE TNSRE__] Han Lv#, __Jinduo Liu#__, Qian Chen, Zuozhen Zhang, Zhaodi Wang, Shusheng Gong, Junzhong Ji and Zhenchang Wang. "Brain effective connectivity analysis facilitates the treatment outcome expectation of sound therapy in patients with tinnitus". _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 31, 1158-1166, 2023  
   * [__IEEE TNNLS__] Junzhong Ji, Aixiao Zou, __Jinduo Liu__, Cuicui Yang, Xiaodan Zhang and Yongduan Song. "A survey on brain effective connectivity network learning". _IEEE Transactions on Neural Networks and Learning Systems_, 34(4), 1879-1899, 2023 
   * [__WWW 2023__] Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou, __Jinduo Liu__, Mengdi Huai, and Jing Gao. "Path-specific Causal Fair Prediction via Auxiliary Graph Structure Learning". _The Web Conference_, Austin, USA, 2023.
