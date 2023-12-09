@@ -30,7 +30,7 @@ I am currently a lecture (and a M.S. Supervisor) in the Faculty of Information T
   * [__AAS__] Junzhong Ji, Aixiao Zou and __Jinduo Liu__. "An overview of identification methods on human brain effective connectivity networks based on functional magnetic resonance imaging". _Acta Automatica Sinica (自动化学报)_, 47(2): 278−296, 2021.  
   
 ## 2020
-  * [__AAAI 2020__] __Jinduo Liu__, Junzhong Ji, Guangxu Xun, Liuyi Yao, Mengdi Huai and Aidong Zhang. "EC-GAN: inferring brain effective connectivity via generative adversarial networks". _The 34th AAAI Conference on Artificial Intelligence (AAAI-24)_, 34(4), 4852-4859, 2020.   
+  * [__AAAI 2020__] __Jinduo Liu__, Junzhong Ji, Guangxu Xun, Liuyi Yao, Mengdi Huai and Aidong Zhang. "EC-GAN: inferring brain effective connectivity via generative adversarial networks". _The 34th AAAI Conference on Artificial Intelligence (AAAI-20)_, 34(4), 4852-4859, 2020.   
   * [__IEEE JBHI__] __Jinduo Liu__, Junzhong Ji, Xiuqin Jia and Aidong Zhang. "Learning brain effective connectivity network structure using ant colony optimization combining with voxel activation information". _IEEE journal of biomedical and health informatics_, 24(7), 2028-2040, 2020.  
 
      
