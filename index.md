@@ -35,7 +35,8 @@ I am currently a lecture (and a M.S. Supervisor) in the Faculty of Information T
      
 # Services
 ## Program Committee Member
- * SIAM International Conference on Data Mining (SDM2024)
+ * The 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)
+ * SIAM International Conference on Data Mining (SDM 2024)
  * The 38th AAAI Conference on Artificial Intelligence (AAAI-24)
  * The 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2023 Research Track)
  * The 32nd International Joint Conference on Artificial Intelligence (IJCAI-23)
