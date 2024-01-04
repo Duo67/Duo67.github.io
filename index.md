@@ -8,6 +8,7 @@ I am currently a lecture (and a M.S. Supervisor) in the Faculty of Information T
 
 ## 2024
   * [__AAAI 2024__] Zuozhen Zhang, Junzhong Ji, __Jinduo Liu*__. "MetaRLEC: Meta-Reinforcement Learning for Discovery of Brain Effective Connectivity". _The 38th AAAI Conference on Artificial Intelligence (AAAI-24)_, 2024.
+  * [__CIBM__] Junzhong Ji, Zuozhen Zhang, Lu Han, __Jinduo Liu*__. "MetaCAE: Causal Autoencoder with Meta-Knowledge Transfer for Brain Effective Connectivity Estimation". _Computers in Biology and Medicine_, 2024.
   * [__CAAI TIT__] __Jinduo Liu__, Jihao Zhai, Junzhong Ji. "Inferring Causal Protein Signaling Networks from Single-cell Data based on Parallel Discrete Artificial Bee Colony Algorithm". _CAAI Transactions on Intelligence Technology_, 2024.
 
 ## 2023
