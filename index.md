@@ -8,11 +8,11 @@ I am currently an associate professor in the Faculty of Information Technology, 
 
 ## 2024
   * [__AAAI 2024__] Zuozhen Zhang, Junzhong Ji, __Jinduo Liu*__. "MetaRLEC: Meta-Reinforcement Learning for Discovery of Brain Effective Connectivity". _The 38th AAAI Conference on Artificial Intelligence (AAAI-24)_, 2024.
-  * [__CIBM__] Junzhong Ji, Zuozhen Zhang, Lu Han, __Jinduo Liu*__. "MetaCAE: Causal Autoencoder with Meta-Knowledge Transfer for Brain Effective Connectivity Estimation". _Computers in Biology and Medicine_, 2024.
+  * [__IEEE TIM__] Junzhong Ji, Lu Han, Feipeng Wang, __Jinduo Liu*__. "Dynamic Effective Connectivity Learning based on non-Parametric State Estimation and GAN". _IEEE Transactions on Instrumentation and Measurement_, 73, 1-12, 2024.
+  * [__CIBM__] Junzhong Ji, Zuozhen Zhang, Lu Han, __Jinduo Liu*__. "MetaCAE: Causal Autoencoder with Meta-Knowledge Transfer for Brain Effective Connectivity Estimation". _Computers in Biology and Medicine_, 170, 107940, 2024.
   * [__CAAI TIT__] __Jinduo Liu__, Jihao Zhai, Junzhong Ji. "Inferring Causal Protein Signaling Networks from Single-cell Data based on Parallel Discrete Artificial Bee Colony Algorithm". _CAAI Transactions on Intelligence Technology_, 2024.
 
 ## 2023
-  * [__IEEE TIM__] Junzhong Ji, Lu Han, Feipeng Wang, __Jinduo Liu*__. "Dynamic Effective Connectivity Learning based on non-Parametric State Estimation and GAN". _IEEE Transactions on Instrumentation and Measurement_, 2023.
   * [__IEEE MEDAI__] Muran Zhu, Xiaotong Huo, Zuozhen Zhang, __Jinduo Liu*__, Junzhong Ji. "Arrhythmia Detection from Electrocardiogram Signal Data based on Wavelet Transform and Deep Reinforcement Learning". _IEEE International Conference on Medical Aftifical Intelligence_, 2023. (__Best Student Paper Runner-Up__)
   * [__IEEE TNSRE__] Han Lv#, __Jinduo Liu#__, Qian Chen, Zuozhen Zhang, Zhaodi Wang, Shusheng Gong, Junzhong Ji and Zhenchang Wang. "Brain effective connectivity analysis facilitates the treatment outcome expectation of sound therapy in patients with tinnitus". _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 31, 1158-1166, 2023.
   * [__Bioengineering__] Jihao Zhai, Junzhong Ji, __Jinduo Liu*__. "Learning Causal Biological Networks with Parallel Ant Colony Optimization Algorithm". _Bioengineering_, 10 (8), 909, 2023.
@@ -36,6 +36,7 @@ I am currently an associate professor in the Faculty of Information Technology, 
      
 # Services
 ## Program Committee Member
+ * The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024 Research Track)
  * The 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)
  * SIAM International Conference on Data Mining (SDM 2024)
  * The 38th AAAI Conference on Artificial Intelligence (AAAI-24)
