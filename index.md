@@ -37,6 +37,7 @@ I am currently an associate professor in the Faculty of Information Technology, 
 # Services
 ## Program Committee Member
  * The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024 Research Track)
+ * The 2024 ACM International Conference on Multimedia (ACM MM2024)
  * The 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)
  * The 2024 Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024) 
  * SIAM International Conference on Data Mining (SDM 2024)
