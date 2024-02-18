@@ -11,6 +11,7 @@ I am currently an associate professor in the Faculty of Information Technology a
   * [__IEEE TIM__] Junzhong Ji, Lu Han, Feipeng Wang, __Jinduo Liu*__. "Dynamic Effective Connectivity Learning based on non-Parametric State Estimation and GAN". _IEEE Transactions on Instrumentation and Measurement_, 73, 1-12, 2024.
   * [__CIBM__] Junzhong Ji, Zuozhen Zhang, Lu Han, __Jinduo Liu*__. "MetaCAE: Causal Autoencoder with Meta-Knowledge Transfer for Brain Effective Connectivity Estimation". _Computers in Biology and Medicine_, 170, 107940, 2024.
   * [__CAAI TIT__] __Jinduo Liu__, Jihao Zhai, Junzhong Ji. "Inferring Causal Protein Signaling Networks from Single-cell Data based on Parallel Discrete Artificial Bee Colony Algorithm". _CAAI Transactions on Intelligence Technology_, 2024.
+  * [__APIN__] Junzhong Ji, Ting Wang, __Jinduo Liu*__, Muhua Wang, Wei Tang. "River Runoff Causal Discovery with Deep Reinforcement Learning". _Applied Intelligence_, 2024.
 
 ## 2023
   * [__IEEE MEDAI__] Muran Zhu, Xiaotong Huo, Zuozhen Zhang, __Jinduo Liu*__, Junzhong Ji. "Arrhythmia Detection from Electrocardiogram Signal Data based on Wavelet Transform and Deep Reinforcement Learning". _IEEE International Conference on Medical Aftifical Intelligence_, 2023. (__Best Student Paper Runner-Up__)
