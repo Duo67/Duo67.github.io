@@ -14,7 +14,7 @@ I am currently an associate professor in the Faculty of Information Technology a
   * [__APIN__] Junzhong Ji, Ting Wang, __Jinduo Liu*__, Muhua Wang, Wei Tang. "River Runoff Causal Discovery with Deep Reinforcement Learning". _Applied Intelligence_, 2024.
 
 ## 2023
-  * [__IEEE MEDAI__] Muran Zhu, Xiaotong Huo, Zuozhen Zhang, __Jinduo Liu*__, Junzhong Ji*. "Arrhythmia Detection from Electrocardiogram Signal Data based on Wavelet Transform and Deep Reinforcement Learning". _IEEE International Conference on Medical Artificial Intelligence_, 2023. (__Best Student Paper Runner-Up__)
+  * [__IEEE MEDAI__] Muran Zhu, Xiaotong Huo, Zuozhen Zhang, __Jinduo Liu*__, Junzhong Ji. "Arrhythmia Detection from Electrocardiogram Signal Data based on Wavelet Transform and Deep Reinforcement Learning". _IEEE International Conference on Medical Artificial Intelligence_, 2023. (__Best Student Paper Runner-Up__)
   * [__IEEE TNSRE__] Han Lv#, __Jinduo Liu#__, Qian Chen, Zuozhen Zhang, Zhaodi Wang, Shusheng Gong, Junzhong Ji and Zhenchang Wang. "Brain effective connectivity analysis facilitates the treatment outcome expectation of sound therapy in patients with tinnitus". _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 31, 1158-1166, 2023.
   * [__Bioengineering__] Jihao Zhai, Junzhong Ji, __Jinduo Liu*__. "Learning Causal Biological Networks with Parallel Ant Colony Optimization Algorithm". _Bioengineering_, 10 (8), 909, 2023.
   * [__Brain Sciences__] Zuozhen Zhang, Ziqi Zhang, Junzhong Ji, __Jinduo Liu*__. "Amortization Transformer for Brain Effective Connectivity Estimation from fMRI Data". _Brain sciences_, 13 (7), 995, 2023.
