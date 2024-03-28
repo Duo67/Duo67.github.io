@@ -8,7 +8,7 @@ I am currently an associate professor in the Faculty of Information Technology a
 
 ## 2024
   * [__IEEE TMI__] __Jinduo Liu__, Lu Han, Junzhong Ji. "MCAN: Multimodal Causal Adversarial Networks for Dynamic Effective Connectivity Learning from fMRI and EEG Data". _IEEE Transactions on Medical Imaging_, 2024.
-  * [__AAAI 2024__] Zuozhen Zhang, Junzhong Ji, __Jinduo Liu*__. "MetaRLEC: Meta-Reinforcement Learning for Discovery of Brain Effective Connectivity". _The 38th AAAI Conference on Artificial Intelligence (AAAI-24)_, 2024.
+  * [__AAAI 2024__] Zuozhen Zhang, Junzhong Ji, __Jinduo Liu*__. "MetaRLEC: Meta-Reinforcement Learning for Discovery of Brain Effective Connectivity". _The 38th AAAI Conference on Artificial Intelligence (AAAI-24)_, 38 (9), 10261-10269, 2024.
   * [__IEEE TNSRE__] Han Lv, __Jinduo Liu*__, Qian Chen, Junzhong Ji, Jihao Zhai, Zuozhen Zhang, Zhaodi Wang, Shusheng Gong, Zhenchang Wang. "Brain network evaluation by functional-guided effective connectivity reinforcement learning method indicates therapeutic effect for tinnitus". _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 2024.
   * [__IEEE TIM__] Junzhong Ji, Lu Han, Feipeng Wang, __Jinduo Liu*__. "Dynamic Effective Connectivity Learning based on non-Parametric State Estimation and GAN". _IEEE Transactions on Instrumentation and Measurement_, 73, 1-12, 2024.
   * [__CAAI TRIT__] __Jinduo Liu__, Jihao Zhai, Junzhong Ji. "Inferring Causal Protein Signaling Networks from Single-cell Data based on Parallel Discrete Artificial Bee Colony Algorithm". _CAAI Transactions on Intelligence Technology_, 2024.
