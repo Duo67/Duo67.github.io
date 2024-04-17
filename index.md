@@ -42,7 +42,8 @@ I am currently an associate professor in the Faculty of Information Technology a
 ## Program Committee Member
  * The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024 Research Track)
  * The 2024 ACM International Conference on Multimedia (ACM MM2024)
- * The 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)
+ * The 33rd International Joint Conference on Artificial Intelligence (IJCAI-24 Main Track)
+ * The 33rd International Joint Conference on Artificial Intelligence (IJCAI-24 Human-Centred AI Track)
  * The 2024 Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024) 
  * SIAM International Conference on Data Mining (SDM 2024)
  * The 38th AAAI Conference on Artificial Intelligence (AAAI-24)
@@ -56,6 +57,8 @@ I am currently an associate professor in the Faculty of Information Technology a
  * IEEE Transactions on Medical Imaging
  * IEEE Transactions on Neural Networks and Learning Systems
  * IEEE Transactions on Automation Science and Engineering
+ * IEEE Transactions on Emerging Topics in Computational Intelligence
+ * SCIENCE CHINA Information Sciences
  * IEEE Journal of Biomedical and Health Informatics
  * CAAI Transactions on Intelligence Technology
  * ACM Transactions on Knowledge Discovery from Data
