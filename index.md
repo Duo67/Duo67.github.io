@@ -41,6 +41,7 @@ I am currently an associate professor in the Faculty of Information Technology a
      
 # Services
 ## Program Committee Member
+ * The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
  * The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024 Research Track)
  * The 2024 ACM International Conference on Multimedia (ACM MM2024)
  * The 33rd International Joint Conference on Artificial Intelligence (IJCAI-24 Main Track)
