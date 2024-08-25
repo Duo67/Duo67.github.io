@@ -8,9 +8,9 @@ I am currently an associate professor in the Faculty of Information Technology a
 
 ## 2024
   * [__IEEE TMI__] __Jinduo Liu__, Lu Han, Junzhong Ji. "MCAN: Multimodal Causal Adversarial Networks for Dynamic Effective Connectivity Learning from fMRI and EEG Data". _IEEE Transactions on Medical Imaging_, 43 (8), 2913-2923, 2024.
-  * [__IEEE TSIPN__] Junzhong Ji, Feipeng Wang, Lu Han, __Jinduo Liu*__. "Causal Learning and Knowledge Fusion Mechanism for Brain Functional Network Classification". _IEEE Transactions on Signal and Information Processing over Networks_, 2024.
+  * [__IEEE TSIPN__] Junzhong Ji, Feipeng Wang, Lu Han, __Jinduo Liu*__. "Causal Learning and Knowledge Fusion Mechanism for Brain Functional Network Classification". _IEEE Transactions on Signal and Information Processing over Networks_, 10, 650-664, 2024.
   * [__IJCAI 2024__] __Jinduo Liu__, Feipeng Wang, Junzhong Ji. "Concept-Level Causal Explanation Method for Brain Function Network Classification". _The 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)_, 2024.
-  * [__CAAI TRIT__] __Jinduo Liu__, Jihao Zhai, Junzhong Ji. "Inferring Causal Protein Signaling Networks from Single-cell Data based on Parallel Discrete Artificial Bee Colony Algorithm". _CAAI Transactions on Intelligence Technology_, 2024.
+  * [__CAAI TRIT__] __Jinduo Liu__, Jihao Zhai, Junzhong Ji. "Inferring Causal Protein Signaling Networks from Single-cell Data based on Parallel Discrete Artificial Bee Colony Algorithm". _CAAI Transactions on Intelligence Technology_, 1-18, 2024.
   * [__AAAI 2024__] Zuozhen Zhang, Junzhong Ji, __Jinduo Liu*__. "MetaRLEC: Meta-Reinforcement Learning for Discovery of Brain Effective Connectivity". _The 38th AAAI Conference on Artificial Intelligence (AAAI-24)_, 38 (9), 10261-10269, 2024.
   * [__IEEE TNSRE__] Han Lv, __Jinduo Liu*__, Qian Chen, Junzhong Ji, Jihao Zhai, Zuozhen Zhang, Zhaodi Wang, Shusheng Gong, Zhenchang Wang. "Brain network evaluation by functional-guided effective connectivity reinforcement learning method indicates therapeutic effect for tinnitus". _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 32, 1132-1141, 2024.
   * [__IEEE TIM__] Junzhong Ji, Lu Han, Feipeng Wang, __Jinduo Liu*__. "Dynamic Effective Connectivity Learning based on non-Parametric State Estimation and GAN". _IEEE Transactions on Instrumentation and Measurement_, 73, 1-12, 2024.
@@ -40,8 +40,10 @@ I am currently an associate professor in the Faculty of Information Technology a
      
 # Services
 ## Program Committee Member
+ * The Thirteenth International Conference on Learning Representations (ICLR 2025)
  * The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2025 Research Track August Cycle)
  * The 39th AAAI Conference on Artificial Intelligence (AAAI 2025)
+ * 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)
  * The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
  * The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024 Research Track)
  * The 2024 ACM International Conference on Multimedia (ACM MM2024)
