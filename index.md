@@ -11,6 +11,7 @@ I am currently an associate professor (PhD supervisor) in the Faculty of Informa
 
 ## 2025
   * [__KDD 2025__] <span style="text-decoration: underline;">Wen Xiong</span>, __Jinduo Liu*__, Junzhong Ji, Fenglong Ma. "Brain Effective Connectivity Estimation via Fourier Spatiotemporal Attention". _31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-25)_, 2025.
+  * [__KBS__] Junzhong Ji, Jingdong Fan, __Jinduo Liu*__. "MsAD-LEC: Estimating Large-scale Brain Effective Connectivity Network based on Multi-subgraph Attention Diffusion". _Knowledge-Based Systems_, 2025.
 
 ## 2024
   * [__AAAI 2024__] <span style="text-decoration: underline;">Zuozhen Zhang</span>, Junzhong Ji, __Jinduo Liu*__. "MetaRLEC: Meta-Reinforcement Learning for Discovery of Brain Effective Connectivity". _The 38th AAAI Conference on Artificial Intelligence (AAAI-24)_, 38 (9), 10261-10269, 2024.
