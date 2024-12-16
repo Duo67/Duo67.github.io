@@ -78,5 +78,5 @@ I am currently an associate professor (PhD supervisor) in the Faculty of Informa
  * ACM Transactions on Knowledge Discovery from Data
   
 # Contact  
-Our group is looking for highly motivated PhD and Master students with strong mathematical or programming background [[中文招生主页链接]](https://yanzhao.bjut.edu.cn/info/1182/4924.htm).  
+Our group is looking for highly motivated PhD and Master students with strong mathematical or programming background [[中文招生主页链接]](https://yanzhao.bjut.edu.cn/info/1435/16431.htm).  
 E-mail: Jinduo AT bjut DOT edu DOT cn 
