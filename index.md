@@ -37,7 +37,7 @@ I am currently an associate professor (PhD supervisor) in the Faculty of Informa
 
 ## 2016-2022
   * [__IEEE TNNLS__] __Jinduo Liu__, Junzhong Ji, Guangxu Xun and Aidong Zhang. "Inferring Effective Connectivity Networks from fMRI Time Series with a Temporal Entropy-score". _IEEE Transactions on Neural Networks and Learning Systems_, 33(10), 5993-6006, 2022.  
-  * [__IEEE BIBM__] Yilin Lu (Master student), __Jinduo Liu*__, Junzhong Ji, Han Lv, Mengdi Huai. "Brain Effective Connectivity Learning with Deep Reinforcement Learning". _2022 IEEE International Conference on Bioinformatics and Biomedicine_, 2022.
+  * [__IEEE BIBM__] <span style="text-decoration: underline;">Yilin Lu</span>, __Jinduo Liu*__, Junzhong Ji, Han Lv, Mengdi Huai. "Brain Effective Connectivity Learning with Deep Reinforcement Learning". _2022 IEEE International Conference on Bioinformatics and Biomedicine_, 2022.
   * [__AAAI 2022__] Mengdi Huai, __Jinduo Liu__, Chenglin Miao, Liuyi Yao and Aidong Zhang. "Towards automating model explanations with certified robustness guarantees". _Proceedings of the AAAI Conference on Artificial Intelligence_, 36(6), 6935-6943, 2022. 
   * [__IEEE TMI__] Junzhong Ji*, __Jinduo Liu*__, Lu Han and Feipeng Wan. "Estimating effective connectivity by recurrent generative adversarial networks". _IEEE Transactions on Medical Imaging_, 40(12), 3326-3336, 2021.  
   * [__AAAI 2020__] __Jinduo Liu__, Junzhong Ji, Guangxu Xun, Liuyi Yao, Mengdi Huai and Aidong Zhang. "EC-GAN: inferring brain effective connectivity via generative adversarial networks". _The 34th AAAI Conference on Artificial Intelligence (AAAI-20)_, 34(4), 4852-4859, 2020.   
@@ -48,6 +48,7 @@ I am currently an associate professor (PhD supervisor) in the Faculty of Informa
 # Services
 ## Program Committee Member
  * The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) __Top Reviewers__
+ * The Forty-Second International Conference on Machine Learning (ICML 2025)
  * The Thirteenth International Conference on Learning Representations (ICLR 2025)
  * The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)
  * The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2025 Research Track August Cycle)
