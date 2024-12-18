@@ -21,7 +21,7 @@ I am currently an associate professor (PhD supervisor) in the Faculty of Informa
   * [__IEEE TSIPN__] Junzhong Ji, Feipeng Wang, Lu Han, __Jinduo Liu*__. "Causal Learning and Knowledge Fusion Mechanism for Brain Functional Network Classification". _IEEE Transactions on Signal and Information Processing over Networks_, 10, 650-664, 2024.
   * [__IEEE TNSRE__] Han Lv, __Jinduo Liu*__, Qian Chen, Junzhong Ji, Jihao Zhai, Zuozhen Zhang, Zhaodi Wang, Shusheng Gong, Zhenchang Wang. "Brain network evaluation by functional-guided effective connectivity reinforcement learning method indicates therapeutic effect for tinnitus". _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 32, 1132-1141, 2024.
   * [__IEEE TIM__] Junzhong Ji, Lu Han, Feipeng Wang, __Jinduo Liu*__. "Dynamic Effective Connectivity Learning based on non-Parametric State Estimation and GAN". _IEEE Transactions on Instrumentation and Measurement_, 73, 1-12, 2024.
-  * [__CBM__] Junzhong Ji, Zuozhen Zhang, Lu Han, __Jinduo Liu*__. "MetaCAE: Causal Autoencoder with Meta-Knowledge Transfer for Brain Effective Connectivity Estimation". _Computers in Biology and Medicine_, 170, 107940, 2024.
+  * [__CIBM__] Junzhong Ji, Zuozhen Zhang, Lu Han, __Jinduo Liu*__. "MetaCAE: Causal Autoencoder with Meta-Knowledge Transfer for Brain Effective Connectivity Estimation". _Computers in Biology and Medicine_, 170, 107940, 2024.
   * [__APIN__] Junzhong Ji, Ting Wang, __Jinduo Liu*__, Muhua Wang, Wei Tang. "River Runoff Causal Discovery with Deep Reinforcement Learning". _Applied Intelligence_, 1-19, 2024.
   * [__IEEE TNNLS__] Aixiao Zou, Junzhong Ji, Minglong Lei, __Jinduo Liu__, Yongduan Song. "Exploring brain effective connectivity networks through spatiotemporal graph convolutional models". _IEEE Transactions on Neural Networks and Learning Systems_, 35 (6), 7871-7883, 2024.  
 
@@ -47,11 +47,11 @@ I am currently an associate professor (PhD supervisor) in the Faculty of Informa
      
 # Services
 ## Program Committee Member
- * The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) __Top Reviewers__
+ * The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) __Top Reviewers__ 
+ * The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2025 Research Track August Cycle) __EXCELLENT REVIEWER__
  * The Forty-Second International Conference on Machine Learning (ICML 2025)
  * The Thirteenth International Conference on Learning Representations (ICLR 2025)
  * The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)
- * The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2025 Research Track August Cycle)
  * The 39th AAAI Conference on Artificial Intelligence (AAAI 2025)
  * 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)
  * The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024 Research Track)
