@@ -47,7 +47,7 @@ I am currently an associate professor (PhD supervisor) in the Faculty of Informa
      
 # Services
 ## Program Committee Member
- * The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) __Top Reviewers__ 
+ * The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) [[Top Reviewers]]([https://yanzhao.bjut.edu.cn/info/1435/16431.htm](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers)).
  * The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2025 Research Track August Cycle) __EXCELLENT REVIEWER__
  * The Forty-Second International Conference on Machine Learning (ICML 2025)
  * The Thirteenth International Conference on Learning Representations (ICLR 2025)
