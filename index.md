@@ -1,6 +1,6 @@
 # Biography
 
-I am currently an associate professor (PhD supervisor) in the Faculty of Information Technology at Beijing University of Technology (BJUT). I obtained my Ph.D. in Computer Science from Beijing University of Technology in June 2020. My research interests are in the general areas of machine learning, data mining and brain science, with a current focus on developing novel techniques to learn the brain effective connectivity networks from neuroimaging data.  
+I am currently an associate professor (PhD supervisor) in the College of Computer Science at Beijing University of Technology (BJUT). I obtained my Ph.D. in Computer Science from Beijing University of Technology in June 2020. My research interests are in the general areas of machine learning, data mining and brain science, with a current focus on developing novel techniques to learn the brain effective connectivity networks from neuroimaging data.  
 
 <span style="color: red;">Openings: I am looking for motivated students (including PhDs and masters) working in data mining and machine learning. If you are interested in joining my group, please send me your CV.</span>
 
