@@ -2,7 +2,7 @@
 
 I am currently an associate professor (PhD supervisor) in the Faculty of Information Technology at Beijing University of Technology (BJUT). I obtained my Ph.D. in Computer Science from Beijing University of Technology in June 2020. My research interests are in the general areas of machine learning, data mining and brain science, with a current focus on developing novel techniques to learn the brain effective connectivity networks from neuroimaging data.  
 
-<span style="color: red;">Openings: I am looking for motivated students (including PhDs and masters) working in data mining and machine learning. If you are interested in joining my group, please send me your CV.</span>
+<span style="color: red;">Openings: I am looking for motivated students (including PhDs 2026 and masters 2025) working in data mining and machine learning. If you are interested in joining my group, please send me your CV.</span>
 
 ![](qrcode_for_gh_0d3e241c6f10_258.jpg)
 
@@ -56,16 +56,16 @@ I am currently an associate professor (PhD supervisor) in the Faculty of Informa
  * The 39th AAAI Conference on Artificial Intelligence (AAAI 2025)
  * 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)
  * The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024 Research Track)
- * The 2024 ACM International Conference on Multimedia (ACM MM2024)
- * The 33rd International Joint Conference on Artificial Intelligence (IJCAI-24 Main Track)
- * The 33rd International Joint Conference on Artificial Intelligence (IJCAI-24 Human-Centred AI Track)
+ * The 2024 ACM International Conference on Multimedia (ACM MM 2024)
+ * The 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024 Main Track)
+ * The 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024 Human-Centred AI Track)
  * The 2024 Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024) 
  * SIAM International Conference on Data Mining (SDM 2024)
- * The 38th AAAI Conference on Artificial Intelligence (AAAI-24)
+ * The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)
  * The 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2023 Research Track)
- * The 32nd International Joint Conference on Artificial Intelligence (IJCAI-23)
+ * The 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)
  * The 2023 Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023) 
- * The 37th AAAI Conference on Artificial Intelligence (AAAI-23)
+ * The 37th AAAI Conference on Artificial Intelligence (AAAI 2023)
  * China Automation Congress (CAC2021;CAC2022;CAC2023)
     
 ## Journal Reviewer
