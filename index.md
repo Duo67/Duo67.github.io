@@ -10,7 +10,8 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
 "*" Indicates the corresponding author, and "_" indicates a supervised master's student by me.
 
 ## 2025
-  * [__KDD 2025__] <span style="text-decoration: underline;">Wen Xiong</span>, __Jinduo Liu*__, Junzhong Ji, Fenglong Ma. "Brain Effective Connectivity Estimation via Fourier Spatiotemporal Attention". _The 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-25)_, 2025.
+  * [__IJCAI 2025__] <span style="text-decoration: underline;">Jihao Zhai</span>, Junzhong Ji, __Jinduo Liu*__. "Inferring Causal Protein Signaling Networks with Reinforcement Learning via Artificial Bee Colony Neural Architecture Search". _The 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)_, 2025.
+  * [__KDD 2025__] <span style="text-decoration: underline;">Wen Xiong</span>, __Jinduo Liu*__, Junzhong Ji, Fenglong Ma. "Brain Effective Connectivity Estimation via Fourier Spatiotemporal Attention". _The 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-25)_, 1657-1668, 2025.
   * [__KBS__] Junzhong Ji, Jingdong Fan, __Jinduo Liu*__. "MsAD-LEC: Estimating Large-scale Brain Effective Connectivity Network based on Multi-subgraph Attention Diffusion". _Knowledge-Based Systems_, 309, 112858, 2025.
 
 ## 2024
