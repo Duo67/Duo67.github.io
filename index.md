@@ -27,7 +27,7 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
   * [__IEEE TNNLS__] Aixiao Zou, Junzhong Ji, Minglong Lei, __Jinduo Liu__, Yongduan Song. "Exploring brain effective connectivity networks through spatiotemporal graph convolutional models". _IEEE Transactions on Neural Networks and Learning Systems_, 35 (6), 7871-7883, 2024.  
 
 ## 2023
-  * [__IEEE MEDAI__] <span style="text-decoration: underline;">Muran Zhu</span>, Xiaotong Huo, Zuozhen Zhang, __Jinduo Liu*__, Junzhong Ji *. "Arrhythmia Detection from Electrocardiogram Signal Data based on Wavelet Transform and Deep Reinforcement Learning". _IEEE International Conference on Medical Artificial Intelligence_, 2023. (__Best Student Paper Runner-Up__)
+  * [__IEEE MEDAI__] <span style="text-decoration: underline;">Muran Zhu</span>, Xiaotong Huo, Zuozhen Zhang, __Jinduo Liu*__, Junzhong Ji *. "Arrhythmia Detection from Electrocardiogram Signal Data based on Wavelet Transform and Deep Reinforcement Learning". _IEEE International Conference on Medical Artificial Intelligence_, 325-333, 2023. (__Best Student Paper Runner-Up__)
   * [__IEEE TNSRE__] Han Lv#, __Jinduo Liu#__, Qian Chen, Zuozhen Zhang, Zhaodi Wang, Shusheng Gong, Junzhong Ji and Zhenchang Wang. "Brain effective connectivity analysis facilitates the treatment outcome expectation of sound therapy in patients with tinnitus". _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 31, 1158-1166, 2023.
   * [__Bioengineering__] Jihao Zhai, Junzhong Ji, __Jinduo Liu*__. "Learning Causal Biological Networks with Parallel Ant Colony Optimization Algorithm". _Bioengineering_, 10 (8), 909, 2023.
   * [__Brain Sciences__] Zuozhen Zhang, Ziqi Zhang, Junzhong Ji, __Jinduo Liu*__. "Amortization Transformer for Brain Effective Connectivity Estimation from fMRI Data". _Brain sciences_, 13 (7), 995, 2023.
@@ -50,18 +50,22 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
 ## Program Committee Member
  * The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) __Top Reviewers__ [[Top Reviewers]](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers)
  * The 31th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2025 Research Track August Cycle) __EXCELLENT REVIEWER__
+ * The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2025 Conference Reviewers & Datasets and Benchmarks Track Reviewers)
+ * The 28th European Conference on Artificial Intelligence (ECAI 2025)
+ * The 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2025)
  * The 31th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2025 Research Track February Cycle)
  * The Forty-Second International Conference on Machine Learning (ICML 2025)
  * The Thirteenth International Conference on Learning Representations (ICLR 2025)
  * The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)
  * The 39th AAAI Conference on Artificial Intelligence (AAAI 2025)
- * 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)
+ * The International Conference on Computer Vision (ICCV 2025)
+ * The 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)
  * The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024 Research Track)
  * The 2024 ACM International Conference on Multimedia (ACM MM 2024)
  * The 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024 Main Track)
  * The 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024 Human-Centred AI Track)
  * The 2024 Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024) 
- * SIAM International Conference on Data Mining (SDM 2024)
+ * The SIAM International Conference on Data Mining (SDM 2024)
  * The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)
  * The 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2023 Research Track)
  * The 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)
@@ -75,7 +79,7 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
  * IEEE Transactions on Automation Science and Engineering
  * IEEE Transactions on Emerging Topics in Computational Intelligence
  * SCIENCE CHINA Information Sciences
- * IEEE Journal of Biomedical and Health Informatics
+ * Transactions on Machine Learning Research
  * CAAI Transactions on Intelligence Technology
  * ACM Transactions on Knowledge Discovery from Data
   
