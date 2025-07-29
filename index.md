@@ -6,6 +6,13 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
 
 ![](qrcode_for_gh_0d3e241c6f10_258.jpg)
 
+# Research Group
+    Master Students:
+    2022.9-2025.6 : Jihai Zhai（国家奖学金, IJCAI2025, CAAI TRIT2024, Bioeng2023）
+    2023.9-2026.6 : Wen Xiong (KDD2025), Minqi Yu (ICML2025, EAAI2025)
+    2024.9-2027.6 : Zhihao Su (MICCAI2025), Yilin Lu
+
+
 # Publications
 "*" Indicates the corresponding author, and "_" indicates a supervised master's student by me.
 
