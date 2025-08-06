@@ -4,6 +4,8 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
 
 <span style="color: red;">Openings: I am looking for motivated students (including PhDs and masters) working in data mining and machine learning. If you are interested in joining my group, please send me your CV.</span>
 
+<span style="color: red;">News: Won the Runner Up for the Best Student Paper Award of the Research Track Best Paper Awards at KDD 2025! </span>
+
 ![](qrcode_for_gh_0d3e241c6f10_258.jpg)
 
 # Group
@@ -17,8 +19,8 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
 "*" Indicates the corresponding author, and "_" indicates a supervised master's student by me.
 
 ## 2025
+  * [__KDD 2025__] <span style="text-decoration: underline;">Wen Xiong</span>, __Jinduo Liu*__, Junzhong Ji, Fenglong Ma. "Brain Effective Connectivity Estimation via Fourier Spatiotemporal Attention". _The 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-25)_, 1657-1668, 2025. (<span style="color: red;">Best Student Paper Award Runner Up, CCF A,  Acceptance rate=19%</span>)
   * [__ICML 2025__] <span style="text-decoration: underline;">Minqi Yu</span>, __Jinduo Liu*__, Junzhong Ji. "Causal Invariance-aware Augmentation for Brain Graph Contrastive Learning". _The Forty-second International Conference on Machine Learning (ICML-25)_, 2025. (<span style="color: red;">CCF A,  Acceptance rate=26.9%</span>)
-  * [__KDD 2025__] <span style="text-decoration: underline;">Wen Xiong</span>, __Jinduo Liu*__, Junzhong Ji, Fenglong Ma. "Brain Effective Connectivity Estimation via Fourier Spatiotemporal Attention". _The 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-25)_, 1657-1668, 2025. (<span style="color: red;">CCF A,  Acceptance rate=19%</span>)
   * [__IJCAI 2025__] <span style="text-decoration: underline;">Jihao Zhai</span>, Junzhong Ji, __Jinduo Liu*__. "Inferring Causal Protein Signaling Networks with Reinforcement Learning via Artificial Bee Colony Neural Architecture Search". _The 34th International Joint Conference on Artificial Intelligence (IJCAI-25)_, 2025. (<span style="color: red;">CCF A,  Acceptance rate=19%</span>)
   * [__MICCAI 2025__] <span style="text-decoration: underline;">Zhihao Su</span>, <span style="text-decoration: underline;">Jihao Zhai</span>, Junzhong Ji, __Jinduo Liu*__. "MSGFlowNet: Learning Effective Connectivity Network based on Sparse Generative Flow Network from fMRI and EEG Data". _Medical Image Computing and Computer Assisted Intervention 2025 (MICCAI-25)_, 2025. (<span style="color: red;">CCF B,  Acceptance rate=28%</span>)
   * [__EAAI 2025__] <span style="text-decoration: underline;">Minqi Yu</span>, __Jinduo Liu*__, Junzhong Ji. "Multi-atlas Functional and Effective Connectivity Attention Fusion Method for Autism Spectrum Disorder Diagnosis". _Engineering Applications of Artificial Intelligence_, 2025. 
