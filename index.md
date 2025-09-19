@@ -11,7 +11,7 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
 # Group
     Master's student:
     2022: Jihai Zhai (国家奖学金, IJCAI2025, CAAI TRIT2024, Bioeng2023)
-    2023: Wen Xiong (KDD2025最佳论文), Minqi Yu (ICML2025, EAAI2025)
+    2023: Wen Xiong (KDD2025最佳论文, NeurIPS2025), Minqi Yu (ICML2025, EAAI2025)
     2024: Zhihao Su (MICCAI2025), Yilin Lu
 
 
@@ -19,6 +19,7 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
 "*" Indicates the corresponding author, and "_" indicates a supervised master's student by me.
 
 ## 2025
+  * [__NeurIPS 2025__] <span style="text-decoration: underline;">Wen Xiong</span>, Junzhong Ji, __Jinduo Liu*__. "BrainEC-LLM: Brain Effective Connectivity Estimation by Multiscale Mixing LLM". _The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)_, 2025. (<span style="color: red;">CCF A,  Acceptance rate=24.5%</span>)
   * [__KDD 2025__] <span style="text-decoration: underline;">Wen Xiong</span>, __Jinduo Liu*__, Junzhong Ji, Fenglong Ma. "Brain Effective Connectivity Estimation via Fourier Spatiotemporal Attention". _The 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-25)_, 1657-1668, 2025. (<span style="color: red;">Best Student Paper Award Runner Up, CCF A,  Acceptance rate=19%</span>)
   * [__ICML 2025__] <span style="text-decoration: underline;">Minqi Yu</span>, __Jinduo Liu*__, Junzhong Ji. "Causal Invariance-aware Augmentation for Brain Graph Contrastive Learning". _The Forty-second International Conference on Machine Learning (ICML-25)_, 2025. (<span style="color: red;">CCF A,  Acceptance rate=26.9%</span>)
   * [__IJCAI 2025__] <span style="text-decoration: underline;">Jihao Zhai</span>, Junzhong Ji, __Jinduo Liu*__. "Inferring Causal Protein Signaling Networks with Reinforcement Learning via Artificial Bee Colony Neural Architecture Search". _The 34th International Joint Conference on Artificial Intelligence (IJCAI-25)_, 2025. (<span style="color: red;">CCF A,  Acceptance rate=19%</span>)
