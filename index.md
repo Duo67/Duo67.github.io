@@ -13,12 +13,25 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
     2022: Jihai Zhai (IJCAI2025, CAAI TRIT2024, Bioeng2023, 国家奖学金)
     2023: Wen Xiong (KDD2025最佳论文, NeurIPS2025, 国家奖学金, 小米特等奖学金), 
           Minqi Yu (ICML2025, EAAI2025, 国家奖学金, 小米奖学金)
-    2024: Zhihao Su (MICCAI2025), 
-          Yilin Lu
+    2024: Zhihao Su (MICCAI2025, IJCAI2026), 
+          Yilin Lu (IEEE TAI)
 
 
 # Publications
 "*" Indicates the corresponding author, and "_" indicates a supervised master's student by me.
+
+## 2026
+
+
+  * [__IJCAI 2026__] <span style="text-decoration: underline;">Zhihao Su</span>, Junzhong Ji, Minqi Yu, __Jinduo Liu*__. STCBN-EC: A Spatio-Temporal Constrained Bayesian Causal Network for Multimodal Brain Effective Connectivity Learning. _The 35th International Joint Conference on Artificial Intelligence_, 2026. (<span style="color: red;">CCF A-B</span>)
+  * [__IJCAI 2026__] Xinyi Huang, Jie Wang, Pengrui Xiang, Yifan Wang, Yu Fu, __Jinduo Liu*__. BEACON: Budget-Efficient Discovery of Policy Violations in Large Language Models via Cognitive-Guided Monte Carlo Tree Search. _The 35th International Joint Conference on Artificial Intelligence_, 2026. (<span style="color: red;">CCF A-B</span>)
+  * [__IEEE TAI__] __Jinduo Liu__, Ting Wang, Yilin Lu, Junzhong Ji. CTRL: Cross-modal Transformer with Reinforcement Learning for Climate Causal Discovery. _IEEE Transactions on Artificial Intelligence_, 2026.
+  * [__EAAI__] Junzhong Ji, Muran Zhu, __Jinduo Liu*__. CellRa: A Region-aware Method for Cell Segmentation. _Engineering Applications of Artificial Intelligence_, 160, 111877, 2026.
+  * [__ICIC 2026__] Pengrui Xiang, Xinyi Huang, Kunyi Zhou, Bokai Cheng, __Jinduo Liu*__, Honggui Han*. BRACE: A Benign-history Robust Anchored Calibration and Evaluation Framework for Large Language Model Refusal. _2026 International Conference on Intelligent Computing_, 2026. (<span style="color: red;">CCF C</span>)
+
+
+
+
 
 ## 2025
   * [__KDD 2025__] <span style="text-decoration: underline;">Wen Xiong</span>, __Jinduo Liu*__, Junzhong Ji, Fenglong Ma. Brain Effective Connectivity Estimation via Fourier Spatiotemporal Attention. _The 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-25)_, 1657-1668, 2025. (<span style="color: red;">Best Student Paper Award Research Runner Up, CCF A,  Acceptance rate=19%</span>)
@@ -29,7 +42,6 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
   * [__BIBM 2025__] Jialin Song, Jiarui Wang, Hanrui Jiang, __Jinduo Liu*__. A Spatio‑Temporal Expert Fusion Framework Integrating Mamba and KAN for EEG Emotion Recognition. _IEEE International Conference on Bioinformatics and Biomedicine (BIBM-25)_, 2025. (<span style="color: red;">CCF B,  Regular Paper Acceptance rate=19.6%</span>)
   * [__JCST__] Muran Zhu, __Jinduo Liu*__, Junzhong Ji. Electrocardiogram Signal Classification Based on Bidirectional LSTM and Multi-Task Temporal Attention. _Journal of Computer Science and Technology_, 40(5): 1401-1413, 2025. (<span style="color: red;">CCF B</span>)
   * [__EAAI__] <span style="text-decoration: underline;">Minqi Yu</span>, __Jinduo Liu*__, Junzhong Ji. Multi-atlas Functional and Effective Connectivity Attention Fusion Method for Autism Spectrum Disorder Diagnosis. _Engineering Applications of Artificial Intelligence_, 160, 111877, 2025.
-  * [__EAAI__] Junzhong Ji, Muran Zhu, __Jinduo Liu*__. CellRa: A Region-aware Method for Cell Segmentation. _Engineering Applications of Artificial Intelligence_, 160, 111877, 2025.
   * [__KBS__] Junzhong Ji, Jingdong Fan, __Jinduo Liu*__. MsAD-LEC: Estimating Large-scale Brain Effective Connectivity Network based on Multi-subgraph Attention Diffusion. _Knowledge-Based Systems_, 309, 112858, 2025.
 
 ## 2024
