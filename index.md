@@ -27,7 +27,7 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
   * [__IJCAI 2026__] Xinyi Huang, Jie Wang, Pengrui Xiang, Yifan Wang, Yu Fu, __Jinduo Liu*__. BEACON: Budget-Efficient Discovery of Policy Violations in Large Language Models via Cognitive-Guided Monte Carlo Tree Search. _The 35th International Joint Conference on Artificial Intelligence_, 2026. (<span style="color: red;">CCF A-B</span>)
   * [__IEEE TAI__] __Jinduo Liu__, Ting Wang, Yilin Lu, Junzhong Ji. CTRL: Cross-modal Transformer with Reinforcement Learning for Climate Causal Discovery. _IEEE Transactions on Artificial Intelligence_, 2026.
   * [__EAAI__] Junzhong Ji, Muran Zhu, __Jinduo Liu*__. CellRa: A Region-aware Method for Cell Segmentation. _Engineering Applications of Artificial Intelligence_, 160, 111877, 2026.
-  * [__ICIC 2026__] Pengrui Xiang, Xinyi Huang, Kunyi Zhou, Bokai Cheng, __Jinduo Liu__ *, Honggui Han *. BRACE: A Benign-history Robust Anchored Calibration and Evaluation Framework for Large Language Model Refusal. _2026 International Conference on Intelligent Computing_, 2026. (<span style="color: red;">CCF C</span>)
+  * [__ICIC 2026__] Pengrui Xiang, Xinyi Huang, Kunyi Zhou, Bokai Cheng, __Jinduo Liu__ *, Honggui Han *. BRACE: A Benign-history Robust Anchored Calibration and Evaluation Framework for Large Language Model Refusal. _2026 International Conference on Intelligent Computing_, 2026. (CCF C, Oral)
 
 
 
