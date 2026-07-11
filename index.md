@@ -8,21 +8,13 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
 
 ![](qrcode_for_gh_0d3e241c6f10_258.jpg)
 
-# Group
-    Master's student:
-    2022: Jihai Zhai (IJCAI2025, CAAI TRIT2024, Bioeng2023, 国家奖学金)
-    2023: Wen Xiong (KDD2025最佳论文, NeurIPS2025, 国家奖学金, 小米特等奖学金), 
-          Minqi Yu (ICML2025, EAAI2025, 国家奖学金, 小米奖学金)
-    2024: Zhihao Su (MICCAI2025, IJCAI2026), 
-          Yilin Lu (IEEE TAI)
 
 
 # Publications
 "*" Indicates the corresponding author, and "_" indicates a supervised master's student by me.
 
 ## 2026
-
-
+  * [__IJCAI 2026__] Xinyi Huang, Pengrui Xiang, Jie Wang, Xuchen Zhai, __Jinduo Liu*__, Honggui Han. EviGuard: Evidence-Guided Connector Intervention for Cross-Modal Safety Unlearning in Multimodal LLMs. _The 34th ACM International Conference on Multimedia_, 2026. (<span style="color: red;">CCF A</span>)
   * [__IJCAI 2026__] <span style="text-decoration: underline;">Zhihao Su</span>, Junzhong Ji, Minqi Yu, __Jinduo Liu*__. STCBN-EC: A Spatio-Temporal Constrained Bayesian Causal Network for Multimodal Brain Effective Connectivity Learning. _The 35th International Joint Conference on Artificial Intelligence_, 2026. (<span style="color: red;">CCF A-B</span>)
   * [__IJCAI 2026__] Xinyi Huang, Jie Wang, Pengrui Xiang, Yifan Wang, Yu Fu, __Jinduo Liu*__. BEACON: Budget-Efficient Discovery of Policy Violations in Large Language Models via Cognitive-Guided Monte Carlo Tree Search. _The 35th International Joint Conference on Artificial Intelligence_, 2026. (<span style="color: red;">CCF A-B</span>)
   * [__IEEE TAI__] __Jinduo Liu__, Ting Wang, Yilin Lu, Junzhong Ji. CTRL: Cross-modal Transformer with Reinforcement Learning for Climate Causal Discovery. _IEEE Transactions on Artificial Intelligence_, 2026.
@@ -113,7 +105,23 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
  * Transactions on Machine Learning Research
  * CAAI Transactions on Intelligence Technology
  * ACM Transactions on Knowledge Discovery from Data
-  
+
+# Group
+    Master's student（硕士研究生）:
+    2022: Jihai Zhai (IJCAI2025, CAAI TRIT2024, Bioeng2023, 国家奖学金，优秀硕士论文)
+    2023: Wen Xiong ((<span style="color: red;">KDD2025最佳论文</span>), NeurIPS2025, 国家奖学金, 小米特等奖学金, 北京市优秀毕业生, 北工大百佳毕业生，优秀硕士论文), 
+          Minqi Yu (ICML2025, EAAI2025, 国家奖学金, 小米奖学金, 北京市优秀毕业生, 北工大百佳毕业生，优秀硕士论文)
+    2024: Zhihao Su (MICCAI2025, IJCAI2026), 
+          Yilin Lu (IEEE TAI)
+          
+    Undergraduate student (本科生):
+    2021: Jinke Wu (ASOC, 国家奖学金)
+    2023: Xinyi Huang (ACM MM, IJCAI, ICIC),
+          Yifan Wang (国创)
+    2024: Jialin Song (BIBM, 北京市自然科学基金启研计划, 国创),
+          Jiatian Cao (北京市自然科学基金启研计划)
+
+    
 # Contact  
 Our group is looking for highly motivated PhD and Master students with strong mathematical or programming background [[中文招生主页链接]](https://yanzhao.bjut.edu.cn/info/1435/16431.htm).  
 E-mail: Jinduo AT bjut DOT edu DOT cn 
