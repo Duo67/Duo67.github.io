@@ -68,43 +68,7 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
   * [__IEEE JBHI__] __Jinduo Liu__, Junzhong Ji, Xiuqin Jia and Aidong Zhang. "Learning brain effective connectivity network structure using ant colony optimization combining with voxel activation information". _IEEE journal of biomedical and health informatics_, 24(7), 2028-2040, 2020.
   * [__IEEE BIBM__] __Jinduo Liu__, Junzhong Ji, Liuyi Yao and Aidong Zhang. "Estimating brain effective connectivity in fMRI data by non-stationary dynamic Bayesian networks". _2019 IEEE International Conference on Bioinformatics and Biomedicine_, 834-839, 2019.
   * [__IEEE BIBM__] __Jinduo Liu__, Junzhong Ji, Aidong Zhang and Peipeng Liang. "An ant colony optimization algorithm for learning brain effective connectivity network from fMRI data". _2016 IEEE International Conference on Bioinformatics and Biomedicine_, 360-367, 2016.
-     
-# Services
-## Program Committee Member
- * The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) __Top Reviewers__ [[Top Reviewers]](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers)
- * The 31th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2025 Research Track August Cycle) __EXCELLENT REVIEWER__
- * The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2025 Conference Reviewers & Datasets and Benchmarks Track Reviewers)
- * The 28th European Conference on Artificial Intelligence (ECAI 2025)
- * The 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2025)
- * The 31th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2025 Research Track February Cycle)
- * The Forty-Second International Conference on Machine Learning (ICML 2025)
- * The Thirteenth International Conference on Learning Representations (ICLR 2025)
- * The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)
- * The 39th AAAI Conference on Artificial Intelligence (AAAI 2025)
- * The International Conference on Computer Vision (ICCV 2025)
- * The 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)
- * The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024 Research Track)
- * The 2024 ACM International Conference on Multimedia (ACM MM 2024)
- * The 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024 Main Track)
- * The 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024 Human-Centred AI Track)
- * The 2024 Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024) 
- * The SIAM International Conference on Data Mining (SDM 2024)
- * The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)
- * The 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2023 Research Track)
- * The 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)
- * The 2023 Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023) 
- * The 37th AAAI Conference on Artificial Intelligence (AAAI 2023)
- * China Automation Congress (CAC2021;CAC2022;CAC2023)
-    
-## Journal Reviewer
- * IEEE Transactions on Medical Imaging
- * IEEE Transactions on Neural Networks and Learning Systems
- * IEEE Transactions on Automation Science and Engineering
- * IEEE Transactions on Emerging Topics in Computational Intelligence
- * SCIENCE CHINA Information Sciences
- * Transactions on Machine Learning Research
- * CAAI Transactions on Intelligence Technology
- * ACM Transactions on Knowledge Discovery from Data
+
 
 # Group
     Master's student（硕士研究生）:
