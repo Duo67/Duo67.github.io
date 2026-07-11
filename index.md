@@ -109,7 +109,7 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
 # Group
     Master's student（硕士研究生）:
     2022: Jihai Zhai (IJCAI2025, CAAI TRIT2024, Bioeng2023, 国家奖学金，优秀硕士论文)
-    2023: Wen Xiong ((<span style="color: red;">KDD2025最佳论文</span>), NeurIPS2025, 国家奖学金, 小米特等奖学金, 北京市优秀毕业生, 北工大百佳毕业生，优秀硕士论文), 
+    2023: Wen Xiong (<span style="color: red;">KDD2025最佳论文</span>, NeurIPS2025, 国家奖学金, 小米特等奖学金, 北京市优秀毕业生, 北工大百佳毕业生，优秀硕士论文), 
           Minqi Yu (ICML2025, EAAI2025, 国家奖学金, 小米奖学金, 北京市优秀毕业生, 北工大百佳毕业生，优秀硕士论文)
     2024: Zhihao Su (MICCAI2025, IJCAI2026), 
           Yilin Lu (IEEE TAI)
