@@ -14,7 +14,7 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
 "*" Indicates the corresponding author, and "_" indicates a supervised master's student by me.
 
 ## 2026
-  * [__IJCAI 2026__] Xinyi Huang, Pengrui Xiang, Jie Wang, Xuchen Zhai, __Jinduo Liu*__, Honggui Han. EviGuard: Evidence-Guided Connector Intervention for Cross-Modal Safety Unlearning in Multimodal LLMs. _The 34th ACM International Conference on Multimedia_, 2026. (<span style="color: red;">CCF A</span>)
+  * [__ACM MM 2026__] Xinyi Huang, Pengrui Xiang, Jie Wang, Xuchen Zhai, __Jinduo Liu*__, Honggui Han. EviGuard: Evidence-Guided Connector Intervention for Cross-Modal Safety Unlearning in Multimodal LLMs. _The 34th ACM International Conference on Multimedia_, 2026. (<span style="color: red;">CCF A</span>)
   * [__IJCAI 2026__] <span style="text-decoration: underline;">Zhihao Su</span>, Junzhong Ji, Minqi Yu, __Jinduo Liu*__. STCBN-EC: A Spatio-Temporal Constrained Bayesian Causal Network for Multimodal Brain Effective Connectivity Learning. _The 35th International Joint Conference on Artificial Intelligence_, 2026. (<span style="color: red;">CCF A-B</span>)
   * [__IJCAI 2026__] Xinyi Huang, Jie Wang, Pengrui Xiang, Yifan Wang, Yu Fu, __Jinduo Liu*__. BEACON: Budget-Efficient Discovery of Policy Violations in Large Language Models via Cognitive-Guided Monte Carlo Tree Search. _The 35th International Joint Conference on Artificial Intelligence_, 2026. (<span style="color: red;">CCF A-B</span>)
   * [__IEEE TAI__] __Jinduo Liu__, Ting Wang, Yilin Lu, Junzhong Ji. CTRL: Cross-modal Transformer with Reinforcement Learning for Climate Causal Discovery. _IEEE Transactions on Artificial Intelligence_, 2026.
