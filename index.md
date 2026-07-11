@@ -2,23 +2,23 @@
 
 I am currently an associate professor (PhD supervisor) in the College of Computer Science at Beijing University of Technology (BJUT). IEEE Senior Member and CCF Senior Member. I obtained my Ph.D. in Computer Science from Beijing University of Technology in June 2020. My research interests are in the general areas of machine learning, data mining and brain science, with a current focus on developing novel techniques to learn the brain effective connectivity networks from neuroimaging data.  
 
-<span style="color: red;">Openings: I am looking for motivated students (including PhDs and masters) working in data mining and machine learning. If you are interested in joining my group, please send me your CV.</span>
+<span style="color: red;">Openings: I am looking for motivated students (including PhDs and masters) working in data mining and machine learning. If you are interested in joining my group, please send me your CV. One PhD student and two master’s students for Fall 2027 admission. </span>  
 
 <span style="color: red;">News: Won the Best Student Paper Awards Research Runner Up at KDD 2025! (top 6 of total 2955 submissions) </span>
 
 
 
 # Publications
-"*" Indicates the corresponding author, and "_" indicates a supervised master's student by me.
+"*" Indicates the corresponding author, and "_" indicates that the first author is a student under my supervision.
 
 ## 2026
-  * [__ACM MM 2026__] Xinyi Huang, Pengrui Xiang, Jie Wang, Xuchen Zhai, __Jinduo Liu*__, Honggui Han. EviGuard: Evidence-Guided Connector Intervention for Cross-Modal Safety Unlearning in Multimodal LLMs. _The 34th ACM International Conference on Multimedia_, 2026. (<span style="color: red;">CCF A</span>)
+  * [__ACM MM 2026__] <span style="text-decoration: underline;">Xinyi Huang</span>, Pengrui Xiang, Jie Wang, Xuchen Zhai, __Jinduo Liu*__, Honggui Han. EviGuard: Evidence-Guided Connector Intervention for Cross-Modal Safety Unlearning in Multimodal LLMs. _The 34th ACM International Conference on Multimedia_, 2026. (<span style="color: red;">CCF A</span>)
   * [__IJCAI 2026__] <span style="text-decoration: underline;">Zhihao Su</span>, Junzhong Ji, Minqi Yu, __Jinduo Liu*__. STCBN-EC: A Spatio-Temporal Constrained Bayesian Causal Network for Multimodal Brain Effective Connectivity Learning. _The 35th International Joint Conference on Artificial Intelligence_, 2026. (<span style="color: red;">CCF A-B</span>)
-  * [__IJCAI 2026__] Xinyi Huang, Jie Wang, Pengrui Xiang, Yifan Wang, Yu Fu, __Jinduo Liu*__. BEACON: Budget-Efficient Discovery of Policy Violations in Large Language Models via Cognitive-Guided Monte Carlo Tree Search. _The 35th International Joint Conference on Artificial Intelligence_, 2026. (<span style="color: red;">CCF A-B</span>)
+  * [__IJCAI 2026__] <span style="text-decoration: underline;">Xinyi Huang</span>, Jie Wang, Pengrui Xiang, Yifan Wang, Yu Fu, __Jinduo Liu*__. BEACON: Budget-Efficient Discovery of Policy Violations in Large Language Models via Cognitive-Guided Monte Carlo Tree Search. _The 35th International Joint Conference on Artificial Intelligence_, 2026. (<span style="color: red;">CCF A-B</span>)
   * [__IEEE TAI__] __Jinduo Liu__, Ting Wang, Yilin Lu, Junzhong Ji. CTRL: Cross-modal Transformer with Reinforcement Learning for Climate Causal Discovery. _IEEE Transactions on Artificial Intelligence_, 2026.
-  * [__ASOC__] Jinke Wu, __Jinduo Liu*__. MetaAN: A Meta-Learned Aligned Network for Cross-Subject Emotion Recognition Based on Electroencephalogram Signals. _Applied Soft Computing_, 2026.
+  * [__ASOC__] <span style="text-decoration: underline;">Jinke Wu</span>, __Jinduo Liu*__. MetaAN: A Meta-Learned Aligned Network for Cross-Subject Emotion Recognition Based on Electroencephalogram Signals. _Applied Soft Computing_, 2026.
   * [__EAAI__] Junzhong Ji, Muran Zhu, __Jinduo Liu*__. CellRa: A Region-aware Method for Cell Segmentation. _Engineering Applications of Artificial Intelligence_, 160, 111877, 2026.
-  * [__ICIC 2026__] Pengrui Xiang, Xinyi Huang, Kunyi Zhou, Bokai Cheng, __Jinduo Liu__ *, Honggui Han *. BRACE: A Benign-history Robust Anchored Calibration and Evaluation Framework for Large Language Model Refusal. _2026 International Conference on Intelligent Computing_, 2026. (CCF C, Oral)
+  * [__ICIC 2026__] <span style="text-decoration: underline;">Pengrui Xiang</span>, Xinyi Huang, Kunyi Zhou, Bokai Cheng, __Jinduo Liu__ *, Honggui Han *. BRACE: A Benign-history Robust Anchored Calibration and Evaluation Framework for Large Language Model Refusal. _2026 International Conference on Intelligent Computing_, 2026. (CCF C, Oral)
 
 
 
@@ -30,7 +30,7 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
   * [__ICML 2025__] <span style="text-decoration: underline;">Minqi Yu</span>, __Jinduo Liu*__, Junzhong Ji. Causal Invariance-aware Augmentation for Brain Graph Contrastive Learning. _The Forty-second International Conference on Machine Learning (ICML-25)_, 73221-73240, 2025. (<span style="color: red;">CCF A,  Acceptance rate=26.9%</span>)
   * [__IJCAI 2025__] <span style="text-decoration: underline;">Jihao Zhai</span>, Junzhong Ji, __Jinduo Liu*__. Inferring Causal Protein Signaling Networks with Reinforcement Learning via Artificial Bee Colony Neural Architecture Search. _The 34th International Joint Conference on Artificial Intelligence (IJCAI-25)_, 8996-9004, 2025. (<span style="color: red;">CCF A,  Acceptance rate=19%</span>)
   * [__MICCAI 2025__] <span style="text-decoration: underline;">Zhihao Su</span>, <span style="text-decoration: underline;">Jihao Zhai</span>, Junzhong Ji, __Jinduo Liu*__. MSGFlowNet: Learning Effective Connectivity Network based on Sparse Generative Flow Network from fMRI and EEG Data. _Medical Image Computing and Computer Assisted Intervention 2025 (MICCAI-25)_, 418-428, 2025. (<span style="color: red;">CCF B,  Regular Paper Acceptance rate=29%</span>)
-  * [__BIBM 2025__] Jialin Song, Jiarui Wang, Hanrui Jiang, __Jinduo Liu*__. A Spatio‑Temporal Expert Fusion Framework Integrating Mamba and KAN for EEG Emotion Recognition. _IEEE International Conference on Bioinformatics and Biomedicine (BIBM-25)_, 2798-2803, 2025. (<span style="color: red;">CCF B,  Regular Paper Acceptance rate=19.6%</span>)
+  * [__BIBM 2025__] <span style="text-decoration: underline;">Jialin Song</span>, Jiarui Wang, Hanrui Jiang, __Jinduo Liu*__. A Spatio‑Temporal Expert Fusion Framework Integrating Mamba and KAN for EEG Emotion Recognition. _IEEE International Conference on Bioinformatics and Biomedicine (BIBM-25)_, 2798-2803, 2025. (<span style="color: red;">CCF B,  Regular Paper Acceptance rate=19.6%</span>)
   * [__JCST__] Muran Zhu, __Jinduo Liu*__, Junzhong Ji. Electrocardiogram Signal Classification Based on Bidirectional LSTM and Multi-Task Temporal Attention. _Journal of Computer Science and Technology_, 40(5): 1401-1413, 2025. (<span style="color: red;">CCF B</span>)
   * [__EAAI__] <span style="text-decoration: underline;">Minqi Yu</span>, __Jinduo Liu*__, Junzhong Ji. Multi-atlas Functional and Effective Connectivity Attention Fusion Method for Autism Spectrum Disorder Diagnosis. _Engineering Applications of Artificial Intelligence_, 160, 111877, 2025.
   * [__KBS__] Junzhong Ji, Jingdong Fan, __Jinduo Liu*__. MsAD-LEC: Estimating Large-scale Brain Effective Connectivity Network based on Multi-subgraph Attention Diffusion. _Knowledge-Based Systems_, 309, 112858, 2025.
