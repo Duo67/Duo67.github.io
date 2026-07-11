@@ -6,8 +6,6 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
 
 <span style="color: red;">News: Won the Best Student Paper Awards Research Runner Up at KDD 2025! (top 6 of total 2955 submissions) </span>
 
-![](qrcode_for_gh_0d3e241c6f10_258.jpg)
-
 
 
 # Publications
