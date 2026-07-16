@@ -22,8 +22,6 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
 
 
 
-
-
 ## 2025
   * [__KDD 2025__] <span style="text-decoration: underline;">Wen Xiong</span>, __Jinduo Liu*__, Junzhong Ji, Fenglong Ma. Brain Effective Connectivity Estimation via Fourier Spatiotemporal Attention. _The 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-25)_, 1657-1668, 2025. (<span style="color: red;">Best Student Paper Award Research Runner Up, CCF A,  Acceptance rate=19%</span>)
   * [__NeurIPS 2025__] <span style="text-decoration: underline;">Wen Xiong</span>, Junzhong Ji, __Jinduo Liu*__. BrainEC-LLM: Brain Effective Connectivity Estimation by Multiscale Mixing LLM. _The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)_, 38, 123110-123143, 2025. (<span style="color: red;">CCF A,  Acceptance rate=24.5%</span>)
@@ -45,7 +43,6 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
   * [__IEEE TIM__] Junzhong Ji, Lu Han, Feipeng Wang, __Jinduo Liu*__. Dynamic Effective Connectivity Learning based on non-Parametric State Estimation and GAN. _IEEE Transactions on Instrumentation and Measurement_, 73, 1-12, 2024.
   * [__CIBM__] Junzhong Ji, Zuozhen Zhang, Lu Han, __Jinduo Liu*__. MetaCAE: Causal Autoencoder with Meta-Knowledge Transfer for Brain Effective Connectivity Estimation. _Computers in Biology and Medicine_, 170, 107940, 2024.
   * [__APIN__] Junzhong Ji, Ting Wang, __Jinduo Liu*__, Muhua Wang, Wei Tang. River Runoff Causal Discovery with Deep Reinforcement Learning. _Applied Intelligence_, 1-19, 2024.
-  * [__IEEE TNNLS__] Aixiao Zou, Junzhong Ji, Minglong Lei, __Jinduo Liu__, Yongduan Song. Exploring brain effective connectivity networks through spatiotemporal graph convolutional models. _IEEE Transactions on Neural Networks and Learning Systems_, 35 (6), 7871-7883, 2024.  
 
 ## 2023
   * [__IEEE MEDAI__] <span style="text-decoration: underline;">Muran Zhu</span>, Xiaotong Huo, Zuozhen Zhang, __Jinduo Liu*__, Junzhong Ji *. "Arrhythmia Detection from Electrocardiogram Signal Data based on Wavelet Transform and Deep Reinforcement Learning". _IEEE International Conference on Medical Artificial Intelligence_, 325-333, 2023. (__Best Student Paper Runner-Up__)
@@ -53,9 +50,7 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
   * [__Bioengineering__] Jihao Zhai, Junzhong Ji, __Jinduo Liu*__. "Learning Causal Biological Networks with Parallel Ant Colony Optimization Algorithm". _Bioengineering_, 10 (8), 909, 2023.
   * [__Brain Sciences__] Zuozhen Zhang, Ziqi Zhang, Junzhong Ji, __Jinduo Liu*__. "Amortization Transformer for Brain Effective Connectivity Estimation from fMRI Data". _Brain sciences_, 13 (7), 995, 2023.
   * [__CAC 2023__] Wenxin Zou, Junzhong Ji, Yutong Wang, Jiayi Wang, Yutong Qian, __Jinduo Liu*__. "Convolutional LSTM with Self-Attention Mechanism for Extreme Weather Prediction". _China Automation Congress (CAC)_, 6782-6787, 2023.
-  * [__IEEE TKDE__] Liuyi Yao, Yaliang Li, Sheng Li, __Jinduo Liu__, Mengdi Huai, Aidong Zhang and Jing Gao. "Concept-Level Model Interpretation From the Causal Aspect". _IEEE Transactions on Knowledge and Data Engineering_, 35(9), 8799-8810, 2023. 
-  * [__WWW 2023__] Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou, __Jinduo Liu__, Mengdi Huai, and Jing Gao. "Path-specific Causal Fair Prediction via Auxiliary Graph Structure Learning". _The Web Conference_, Austin, USA, 3680-3688, 2023.
-  * [__IEEE TNNLS__] Junzhong Ji, Aixiao Zou, __Jinduo Liu__, Cuicui Yang, Xiaodan Zhang and Yongduan Song. "A survey on brain effective connectivity network learning". _IEEE Transactions on Neural Networks and Learning Systems_, 34(4), 1879-1899, 2023.
+
 
 ## 2016-2022
   * [__IEEE TNNLS__] __Jinduo Liu__, Junzhong Ji, Guangxu Xun and Aidong Zhang. "Inferring Effective Connectivity Networks from fMRI Time Series with a Temporal Entropy-score". _IEEE Transactions on Neural Networks and Learning Systems_, 33(10), 5993-6006, 2022.  
