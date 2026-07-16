@@ -8,7 +8,7 @@ I am currently an associate professor (PhD supervisor) in the College of Compute
 
 
 
-# Publications
+# Selected Publications as First or Corresponding Author
 "*" Indicates the corresponding author, and "_" indicates that the first author is a student under my supervision.
 
 ## 2026
